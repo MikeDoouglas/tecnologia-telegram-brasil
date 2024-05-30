@@ -175,6 +175,7 @@
 - [powershell br](https://telegram.me/powershellbr)
 
 ### dev geral
+- [grupo developers](https://t.me/grupodevelopers)
 - [api builders br](https://t.me/apibuilders)
 - [devs brasil 🇧🇷](https://t.me/desenvolvedoresbrasil)
 - [regex](https://telegram.me/joinchat/bto01j1rbi16tgtshj2cuq )
